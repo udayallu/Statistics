@@ -15,13 +15,13 @@ A random variable Assigns a numerical values to each possible outcome of a rando
 
 ### Discrete - A Discrete random varaible is as a number of outcomes we can count.
 Computing the mean 
-Outcome x      Probability
-10               1/6
-20               3/12
-30               1/12
-40               1/6
-50               1/6
-60               1/6
+1. Outcome x      Probability
+2. 10               1/6
+3. 20               3/12
+4. 30               1/12
+5. 40               1/6
+6. 50               1/6
+7. 60               1/6
 
 Mean (U) = 10x1/6 + 20x3/12 + 30x1/12 ..... 60x1/6=34.1667
 Visulizing is better way to see the values distributed.
@@ -30,13 +30,13 @@ Measuring the spread of the Random variable
 outcome xi - mean 
 mean square varaince=(xi-u)wholew squre
 
-X     P
-0   .03
-1   .14
-2   .35
-3   .32
-4   .15
-5   .01
+1. X     P
+2. 0   .03
+3. 1   .14
+4. 2   .35
+5. 3   .32
+6. 4   .15
+7. 5   .01
 =.03x(0-2.45)^2 + ....... .01x(5-2.45)^2
 =1.0675
 
