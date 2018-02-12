@@ -44,5 +44,17 @@ STANDARD DIVIANCE = SQURE ROOT OF VARAINCE
 =SQRT(1.0675)=1.0332
 
 
-### Continous- A Continous random variables is diffrent, we cant count the ammount the possiblities.
 
+## The Bernoulli Distribution
+
+A binomial distribution can be thought of as simply the probability of a SUCCESS or FAILURE outcome in an experiment or survey that is repeated multiple times. 
+The binomial is a type of distribution that has two possible outcomes (the prefix “bi” means two, or twice). For example, a coin toss has only two possible outcomes: heads or tails and taking a test could have two possible outcomes: pass or fail.
+
+
+## Binomial distributions must also meet the following three criteria:
+
+1. The number of observations or trials is fixed. In other words, you can only figure out the probability of something happening if you do it a certain number of times. This is common sense — if you toss a coin once, your probability of getting a tails is 50%. If you toss a coin a 20 times, your probability of getting a tails is very, very close to 100%.
+2. Each observation or trial is independent. In other words, none of your trials have an effect on the probability of the next trial.
+3. The probability of success (tails, heads, fail or pass) is exactly the same from one trial to another.
+
+### Continous- A Continous random variables is diffrent, we cant count the ammount the possiblities.
