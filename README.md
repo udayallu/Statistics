@@ -61,3 +61,8 @@ The binomial is a type of distribution that has two possible outcomes (the prefi
 A Poisson distribution is a tool that helps to predict the probability of certain events from happening when you know how often the event has occurred. The Poisson distribution gives us the probability of a given number of events happening in a fixed interval of time.
 
 ### Continous- A Continous random variables is diffrent, we cant count the ammount the possiblities.
+
+A continuous random variable is a random variable where the data can take infinitely many values. For example, a random variable measuring the time taken for something to be done is continuous since there are an infinite number of possible times that can be taken.
+
+In this way, z measures how many standard deviations X is
+above or below the mean.
