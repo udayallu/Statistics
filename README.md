@@ -57,4 +57,7 @@ The binomial is a type of distribution that has two possible outcomes (the prefi
 2. Each observation or trial is independent. In other words, none of your trials have an effect on the probability of the next trial.
 3. The probability of success (tails, heads, fail or pass) is exactly the same from one trial to another.
 
+## Poisson distribution 
+A Poisson distribution is a tool that helps to predict the probability of certain events from happening when you know how often the event has occurred. The Poisson distribution gives us the probability of a given number of events happening in a fixed interval of time.
+
 ### Continous- A Continous random variables is diffrent, we cant count the ammount the possiblities.
